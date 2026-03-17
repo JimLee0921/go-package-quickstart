@@ -318,7 +318,7 @@ func OrderDemo() {
 	}
 }
 
-// LimitAndOffsetDemo 限制返回条数和偏移跳过
+// LimitAndOffsetDemo 分页限制返回条数和偏移跳过
 func LimitAndOffsetDemo() {
 	ctx := context.Background()
 
